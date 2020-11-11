@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "0, 234" 
+echo "1, 98" 
+echo "2, 63" 
+echo "3, 21"
+echo "4, 38"
+echo "5, 53"
+echo "6, 76"
+echo "7, 85"
+echo "8, 62"
+echo "9, 42"
